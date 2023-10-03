@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.navbar {
+.container {
 	list-style:none;
 	background-color:#D3D3D3;
 	padding:10px;
 	display: flex;
-	justify-content: space-evenly;
+	justify-content:space-evenly;
 	margin-right:1rem;
 		
 }
